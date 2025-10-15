@@ -1,2 +1,2 @@
 froga!
-froga2
+froga
